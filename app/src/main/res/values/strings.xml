@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MatMul</string>
+    <string name="input_x" >X</string>
+    <string name="input_y">Y</string>
+    <string name="output_xy">XY</string>
+    <string name="compute_btn">COMPUTE</string>
+    <string name="zero">0</string>
+    <string name="fill_zero">FILL ZEROS</string>
+    <string name="clear_values">CLEAR</string>
+</resources>
